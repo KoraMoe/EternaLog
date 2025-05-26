@@ -269,14 +269,6 @@ eternalog/
 - `ink! 5.1.1`: Smart contract framework
 - `scale-info 2.11`: Type information for encoding/decoding
 
-## 📋 Roadmap
-
-- [ ] Add batch log storage functionality
-- [ ] Implement log expiration (with user consent)
-- [ ] Add log categories and permissions
-- [ ] Create web-based log viewer
-- [ ] Add integration with common logging libraries
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -287,7 +279,7 @@ eternalog/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
